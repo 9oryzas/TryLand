@@ -6,18 +6,19 @@ body{
 
     font-family:  Raleway, RalewayOffline, sans-serif;
     color: blueviolet;
+    /* border: #b5e853 2px solid; */
 }
 .main1{
     width: 100%;
-    height: 705px;
+    height: 600px;
     background-color: #000000;
-    
+    /* border: #f75f00 2px solid; */
 }
 #partikel{
     position: absolute;
     width: 100%;
-    height: 100%;
-
+    height: 600px;
+    /* border: #535be8 2px solid; */
 }
 .alo{
     display: inline-;
@@ -53,6 +54,7 @@ body{
     height: 40px;
     background-color: #0d112b;
     position: relative;
+    /* border: #b5e853 2px solid; */
 
     p{
         color: aliceblue;
