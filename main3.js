@@ -1,5 +1,5 @@
 
-particlesJS("div2", {
+particlesJS("partikel", {
     "particles": {
       "number": {
         "value": 100,
@@ -97,7 +97,7 @@ particlesJS("div2", {
   });
 
 var typing=new Typed(".typing", {
-    strings:["Ultramen","Batman","Up to u"],
+    strings:["Rv","Batman","Terserah"],
     typeSpeed:70,
     backSpeed:20,
     loop:true

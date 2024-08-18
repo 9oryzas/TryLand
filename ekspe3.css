@@ -4,16 +4,16 @@
 }
 body{
 
-    font-family: poppins;
+    font-family:  Raleway, RalewayOffline, sans-serif;
     color: blueviolet;
 }
 .main1{
     width: 100%;
     height: 705px;
-    background-color: #0d112b;
+    background-color: #000000;
     
 }
-#div2{
+#partikel{
     position: absolute;
     width: 100%;
     height: 100%;
@@ -21,7 +21,7 @@ body{
 }
 .alo{
     display: inline-;
-    color: aqua;
+    color: #b5e853;
 }
 .text1{
 
@@ -44,11 +44,7 @@ body{
     padding: 5px;
 
 }
-.main2{
-    width: 100%;
-    height: 707px;
-    background-color: rgb(8, 8, 57);
-}
+
 .header{
     border:none;
     padding: 7px;
@@ -57,19 +53,10 @@ body{
     height: 40px;
     background-color: #0d112b;
     position: relative;
-}
-.vektor1{
-    margin-left: 40%;
-    margin-top: 40px;
-    height: 300px;
-    opacity: 50%;
 
-}
-.main2 p{
-    color: aliceblue;
-}
-.header p{
-    color: aliceblue;
-    margin-top: 11px;
-    margin-left: 8px;
+    p{
+        color: aliceblue;
+        margin-top: 11px;
+        margin-left: 8px;
+    }
 }
