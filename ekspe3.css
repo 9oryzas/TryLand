@@ -10,14 +10,14 @@ body{
 }
 .main1{
     width: 100%;
-    height: 600px;
+    height: 620px;
     background-color: #000000;
     /* border: #f75f00 2px solid; */
 }
 #partikel{
     position: absolute;
     width: 100%;
-    height: 600px;
+    height: 616px;
     /* border: #535be8 2px solid; */
 }
 .alo{
